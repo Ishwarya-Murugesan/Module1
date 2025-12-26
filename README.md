@@ -120,7 +120,7 @@ print("Imaginary part:",x.imag)
 ## Result
 Thus, the program is executed successfully.
 
-## Datatypes-Read and Print a String in Python
+# Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
